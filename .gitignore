@@ -1,0 +1,40 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+# Godot-specific files
+.import/
+export.cfg
+export_presets.cfg
+*.godot
+
+# Compiled files
+*.exe
+*.dll
+*.pdb
+*.so
+*.dylib
+*.bin
+*.o
+*.a
+*.lib
+
+# Android-specific
+android/build/
+android/bin/
+android/.gradle/
+android/.cxx/
+android/local.properties
+android/app/build/
+android/app/.externalNativeBuild/
